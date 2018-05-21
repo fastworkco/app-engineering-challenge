@@ -17,20 +17,21 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 
 ## The challenge
 
+- Create product list and detail page.
+
 Here is the layout and description that should be produced:
 
-<img src="files/layout1.jpg" width="250" style="border: 1px solid lightgray;">
+<img src="files/product_list.jpg" width="250">
 
-- Create slider prodcuct card (using mock data).
-- Each card can click to detail product page.
+- Create product list (get data from api).
+- Each list can click to product detail.
 
-<div>
-  <img src="files/layout2.jpg" width="250" style="border: 1px solid lightgray;">
-  <img src="files/layout3.jpg" width="250" style="border: 1px solid lightgray;">
-</div>
 
-- Create layout detail and fill data from Api [GET] product detail.
-- This page can back to previous page.
+<img src="files/product_detail.jpg" width="250">
+
+- Create product detail (get description from api).
+- Ignore all action on this page such as click favorites, share, etc.
+- Can back to product list.
 
 > More detail UI layout see our app Fastwork.
 
@@ -38,8 +39,8 @@ Here is the layout and description that should be produced:
 
 Using our api for get data.
 
-#### [GET] product detail
-- https://api.fastwork.co/api/product/minami/blogger-review-39271924
+#### [GET] product list and detail
+- http://www.mocky.io/v2/5b0275b83000007500cee151
 
 ### Some tips and remarks
 
