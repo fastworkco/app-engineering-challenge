@@ -18,12 +18,13 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 ## The challenge
 
 Here is the layout and description that should be produced:
-![Layout1](files/layout1.jpg =200x)
+<img src="files/layout1.jpg" width="200">
 
     - Create slider prodcuct card (using mock data).
     - Each card can click to detail product page.
-![Layout2](files/layout2.jpg =200x)
-![Layout3](files/layout3.jpg =200x)
+
+<img src="files/layout2.jpg" width="200">
+<img src="files/layout3.jpg" width="200">
 
     - Create layout detail and fill data from Api **[GET] product detail**.
     - This page can back to previous page.
@@ -35,7 +36,7 @@ Here is the layout and description that should be produced:
 Note that in the layout above we have a form, a table with information of percentage of participation of each person and a donut chart that represents this distribution, that is, we need API that sends and receives these from server.
 
 #### [GET] product detail
-using this api
+Using this api
 > https://api.fastwork.co/api/product/minami/blogger-review-39271924
 
 ### Some tips and remarks
