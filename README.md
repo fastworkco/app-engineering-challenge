@@ -17,22 +17,24 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 
 ## The challenge
 
-Here is the layout that should be produced:
-![Layout1](files/ayout1.jpg)
-![Layout2](files/ayout2.jpg)
-![Layout3](files/ayout3.jpg)
+Here is the layout and description that should be produced:
+![Layout1](files/layout1.jpg)
+    - Create slider prodcuct card (using mock data).
+    - Each card can click to detail product page.
+![Layout2](files/layout2.jpg)
+![Layout3](files/layout3.jpg)
+    - Create layout detail and fill data from Api **[GET] product detail**.
+    - This page can back to previous page.
 
+> More detail UI layout example see our app Fastwork.
 
 ### APIs
 
 Note that in the layout above we have a form, a table with information of percentage of participation of each person and a donut chart that represents this distribution, that is, we need API that sends and receives these from server.
 
-#### GET product detail
-using api > [https://api.fastwork.co/api/product/minami/blogger-review-39271924]https://api.fastwork.co/api/product/minami/blogger-review-39271924
-
-#### GET /employees
-
-You should develop this API that returns the JSON with the list of "employees" with their due participation.
+#### [GET] product detail
+using this api
+> https://api.fastwork.co/api/product/minami/blogger-review-39271924
 
 ### Some tips and remarks
 
@@ -71,9 +73,9 @@ The aspects of your code we will assess include:
 
 Bonus point (those items are optional):
 
-* **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README? 
+* **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README?
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
 
 ## Doubts
 
-Send your questions directly to [ben@fastwork.co](mailto:ben@fastwork.co).
+Send your questions directly to [ben@fastwork.co](mailto:ben@fastwork.co) and cc to [notfastwork@gmail.com](mailto:notfastwork@gmail.com).
