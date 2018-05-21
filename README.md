@@ -18,11 +18,13 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 ## The challenge
 
 Here is the layout and description that should be produced:
-![Layout1](files/layout1.jpg)
+![Layout1](files/layout1.jpg =200x)
+
     - Create slider prodcuct card (using mock data).
     - Each card can click to detail product page.
-![Layout2](files/layout2.jpg)
-![Layout3](files/layout3.jpg)
+![Layout2](files/layout2.jpg =200x)
+![Layout3](files/layout3.jpg =200x)
+
     - Create layout detail and fill data from Api **[GET] product detail**.
     - This page can back to previous page.
 
