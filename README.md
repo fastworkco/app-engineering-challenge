@@ -18,16 +18,17 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 ## The challenge
 
 Here is the layout and description that should be produced:
+
 <img src="files/layout1.jpg" width="200">
 
-    - Create slider prodcuct card (using mock data).
-    - Each card can click to detail product page.
+- Create slider prodcuct card (using mock data).
+- Each card can click to detail product page.
 
 <img src="files/layout2.jpg" width="200">
 <img src="files/layout3.jpg" width="200">
 
-    - Create layout detail and fill data from Api **[GET] product detail**.
-    - This page can back to previous page.
+- Create layout detail and fill data from Api [GET] product detail.
+- This page can back to previous page.
 
 > More detail UI layout example see our app Fastwork.
 
