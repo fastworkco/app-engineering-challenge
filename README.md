@@ -2,9 +2,9 @@
   <img src="https://design.fastwork.co/_nuxt/img/fw-logo-full-mono-600x100.0dfad36.png" width="600">
 </p>
 
-# { "developer": "Mobile Engineer" } to FastWork
+# { "developer": "Mobile Engineer (React Native)" } to FastWork
 
-Objective of this challenge is to evaluate your domain in **App development(React Native focus)**, that is, its organization, style and good practices with the code, creation of Restfull APIs, knowledge of the frameworks and technologies used.
+Objective of this challenge is to evaluate your domain in **Mobile application development (React Native)**, that is, its organization, style and good practices with the code, creation of application, knowledge of the frameworks and technologies used.
 
 ## Rules
 
@@ -17,23 +17,30 @@ Objective of this challenge is to evaluate your domain in **App development(Reac
 
 ## The challenge
 
-- Create product list and detail page.
-
 Here is the layout and description that should be produced:
 
-<img src="files/product_list.jpg" width="250">
+**Create product list page.**
 
-- Create product list (get data from api).
-- Each list can click to product detail.
+<img src="product-list-header2.png" width="250">
+<br/>
+<img src="product-list3.png" width="250">
 
+- Create header, tab bar, taxonomy filters.
+- Filter button can click to show blank popup.
+- Each product list can click to product detail.
+- Product list data can render this api http://www.mocky.io/v2/5b0275b83000007500cee151
 
-<img src="files/product_detail.jpg" width="250">
+<br/>
 
-- Create product detail (get description from api).
+**Create product detail page.**
+
+<img src="product-detail.png" width="250">
+
+- Create layout and fill data.
+- Back button can click to product list.
 - Ignore all action on this page such as click favorites, share, etc.
-- Can back to product list.
 
-> More detail UI layout see our app Fastwork.
+> More detail UI layout can send your questions directly to [burin@fastwork.co](mailto:burin@fastwork.co).
 
 ### APIs
 
